@@ -6,4 +6,5 @@ public class US500TC001 {
     //some more code
     //added
     //conflict
+    //c2
 }
