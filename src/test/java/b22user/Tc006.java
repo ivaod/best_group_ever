@@ -7,4 +7,6 @@ public class Tc006 {
 
     // part 1
 
+    // part 2
+
 }
