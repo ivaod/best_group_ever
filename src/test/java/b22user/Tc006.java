@@ -5,4 +5,6 @@ public class Tc006 {
     // tc006 started
 
 
+    // part 1
+
 }
